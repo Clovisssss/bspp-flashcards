@@ -1,0 +1,1 @@
+Dépose ici tes photos officielles (jpg/png/webp) puis référence-les dans data.js (champ img).
